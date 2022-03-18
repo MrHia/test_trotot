@@ -1,0 +1,10 @@
+#navbarNavAltMarkup{
+    justify-content: center;
+}
+.navbar-main{
+    position: sticky;
+    top: 0;
+}
+.logo-head{
+    border-radius: 50px;
+}
